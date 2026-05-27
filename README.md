@@ -1,2 +1,2 @@
-# android-flash-player
-一款基于ruffle的flash播放器，用于补全目前ruffle在手机上播放flash游戏没有自定义按键的问题
+# Flash童年放映机
+   一款基于ruffle的flash播放器，用于补全目前ruffle在手机上播放flash游戏没有自定义按键的问题
